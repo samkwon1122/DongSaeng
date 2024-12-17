@@ -1,0 +1,1 @@
+{"data_dir": "/home/jovyan/data/axe/a10/", "image_name": "a10", "image_path": "/home/jovyan/data/axe/a10/a10.png", "char_dir": "/home/jovyan/data/axe/a10/char/", "motion_path": "/home/jovyan/data/axe/a10/char/a10.bvh", "inpaint_dir": "/home/jovyan/data/axe/a10/inpaint/", "seg_prompt": "A girl wearing blue dress.", "motion_prompt": "\"\""}

@@ -1,0 +1,11 @@
+end_frame_idx: null
+filepath: /home/jovyan/data/axe/a10/char/a10.bvh
+forward_perp_joint_vectors:
+- - LeftShoulder
+  - RightShoulder
+- - LeftUpLeg
+  - RightUpLeg
+groundplane_joint: LeftFoot
+scale: 0.005
+start_frame_idx: 0
+up: +y

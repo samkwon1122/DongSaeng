@@ -1,0 +1,13 @@
+controller:
+  MODE: video_render
+  OUTPUT_VIDEO_PATH: /home/jovyan/data/axe/a10/a10.gif
+scene:
+  ANIMATED_CHARACTERS:
+  - character_cfg: /home/jovyan/data/axe/a10/char/char_cfg.yaml
+    motion_cfg: /home/jovyan/data/animating/config/motion/test.yaml
+    retarget_cfg: /home/jovyan/data/animating/config/retarget/test.yaml
+view:
+  USE_MESA: true
+  WINDOW_DIMENSIONS:
+  - 814
+  - 1047
