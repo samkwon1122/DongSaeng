@@ -91,6 +91,8 @@ https://github.com/facebookresearch/AnimatedDrawings/issues/99 참고
 ## 결과물
 
 동화 **금도끼은도끼**에 적용하여 나온 결과물 영상을 [output](./output)에서 확인하실 수 있습니다.  
+(비디오의 코덱이 불분명하여 다운로드 후 별도의 플레이어에서 확인 바랍니다.)  
+
 다음은 결과물 영상들을 사용하여 제작한 숏츠입니다. [shorts.mp4](./shorts.mp4)
 
 https://github.com/user-attachments/assets/ede8c54d-c2ae-44e4-9c2e-2fa81baaa882
