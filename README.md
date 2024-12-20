@@ -1,10 +1,10 @@
 # 동생: 동화책에 생명을 불어넣는 AI 애니메이팅 서비스
 
-<p align="center"><img src="./data/axe/a8/a8.gif"></p>
+https://github.com/user-attachments/assets/9c9e604c-8171-46a6-90db-8e6871654b50
 
 2024 AI 핵심기술 기반 실무 프로젝트 2 수업
 
-동화책의 한 장면을 입력하면 그림 속 등장인물이 문맥에 맞게 움직이는 영상을 출력합니다.
+동화책의 한 장면을 입력하면 그림 속 등장인물이 문맥에 맞게 움직이는 영상을 출력합니다. ([발표자료](./DongSaeng.pdf))
 
 ## 파이프라인
 
@@ -90,7 +90,10 @@ https://github.com/facebookresearch/AnimatedDrawings/issues/99 참고
 
 ## 결과물
 
-동화 **금도끼은도끼**에 적용하여 나온 결과물 영상을 [output](./output)에서 확인하실 수 있습니다.
+동화 **금도끼은도끼**에 적용하여 나온 결과물 영상을 [output](./output)에서 확인하실 수 있습니다.  
+다음은 결과물 영상들을 사용하여 제작한 숏츠입니다. [shorts.mp4](./shorts.mp4)
+
+https://github.com/user-attachments/assets/ede8c54d-c2ae-44e4-9c2e-2fa81baaa882
 
 ## 데이터
 
